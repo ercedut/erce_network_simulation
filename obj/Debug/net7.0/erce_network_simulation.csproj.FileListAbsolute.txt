@@ -1,0 +1,14 @@
+/home/erce/Documents/projeler/erce_network_simulation/bin/Debug/net7.0/erce_network_simulation
+/home/erce/Documents/projeler/erce_network_simulation/bin/Debug/net7.0/erce_network_simulation.deps.json
+/home/erce/Documents/projeler/erce_network_simulation/bin/Debug/net7.0/erce_network_simulation.runtimeconfig.json
+/home/erce/Documents/projeler/erce_network_simulation/bin/Debug/net7.0/erce_network_simulation.dll
+/home/erce/Documents/projeler/erce_network_simulation/bin/Debug/net7.0/erce_network_simulation.pdb
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.AssemblyInfoInputs.cache
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.AssemblyInfo.cs
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.csproj.CoreCompileInputs.cache
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.dll
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/refint/erce_network_simulation.dll
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.pdb
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/erce_network_simulation.genruntimeconfig.cache
+/home/erce/Documents/projeler/erce_network_simulation/obj/Debug/net7.0/ref/erce_network_simulation.dll

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="program.cs" />
+    <Compile Include="erce_net_core/simulation_manager.cs" />
+    <Compile Include="erce_net_core/network_node.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "erce_network_simulation/1.0.0": {
+        "runtime": {
+          "erce_network_simulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "erce_network_simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
